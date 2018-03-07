@@ -10,6 +10,6 @@ The solution covers the different aspects of securing an ASP.Net Core applicatio
 - Passing Access Token to API
 - Securing API
 The solution is made in VS2017 with .Net Core 2 and IdentityServer4.
-The initial version supports role based authorisation.
+The initial version supports role based authorization.
 
 
